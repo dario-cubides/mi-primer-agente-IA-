@@ -1,0 +1,14 @@
+- crear un agente de IA 
+[CATEGORÍA: DESARROLLO] - aprender a utilizar claude code esta semana, ir al gym, aprender ingles este año, ser un buen desarrollador, conseguir trabajo, salir
+[CATEGORÍA: GENERAL] - ir al gym
+[CATEGORÍA: DESARROLLO] - aprender claude code esta semana
+[CATEGORÍA: DESARROLLO] - aprender ingles este año
+[CATEGORÍA: DESARROLLO] - viajar
+[CATEGORÍA: GENERAL] - conocer medellin
+[CATEGORÍA: DESARROLLO] - aprender las bases de python con IA | 👉 [Skill AI] Librerías recomendadas: Pandas, Requests, LangChain.
+[CATEGORÍA: GENERAL] - comprar las cosas del almuerzo
+[CATEGORÍA: DESARROLLO BACKEND / IA] - Crear un script de python para conectar una base de datos | 👉 [Skill AI Local] Librerías recomendadas: Pandas, Requests, LangChain.
+[CATEGORÍA: DESARROLLO FRONTEND / INTERFAZ] - Diseñar la interfaz de la pantalla principal con un menú lateral | 👉 [Skill UI Local] Tip: Diseña capturas de borde a borde y vistas full-screen limpias.
+[CATEGORÍA: DESARROLLO BACKEND / IA] - Aprender a conectar una API con Python | 📝 👉 [Skill AI Local] Librerías recomendadas: Pandas, Requests, LangChain.
+[CATEGORÍA: DESARROLLO BACKEND / IA] - Aprender desarrollo backend con Python | 📝 ❌ [Error API] No se pudo conectar con la IA en la nube: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+[CATEGORÍA: DESARROLLO BACKEND / IA] - Aprender desarrollo backend con Python | 📝 🤖 [Gemini AI Real]: FastAPI, SQLAlchemy, Pydantic.
